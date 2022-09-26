@@ -1,15 +1,8 @@
 change 2
-Some cities I want to visit:
-Cairo
-London
-Vancouver
-Los Angeles
-New York
-Toronto!!
-
-Some countries I want to visit:
-Egypt
-Iran
-England
-USA
-Mexico
+Some places I want to visit:
+Cairo, Egypt
+London, UK
+Vancouver, Canada
+Los Angeles, USA
+New York, USA
+Toronto, Canada
